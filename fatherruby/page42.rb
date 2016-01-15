@@ -1,0 +1,5 @@
+p /Ruby/ =~ "ruby"
+p /Ruby/ =~"1RUBY"
+p /Ruby/i =~"12ruby"
+p /Ruby/i =~"jjjRUBY"
+p /Ruby/i =~"jlasdfrUby"

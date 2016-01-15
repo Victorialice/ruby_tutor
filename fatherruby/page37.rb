@@ -1,0 +1,5 @@
+name=["xiaolin","lin","gaoye","sengang"]
+p name[0] 
+p name[1]
+p name[2]
+p name[3]
